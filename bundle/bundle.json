@@ -1,0 +1,10 @@
+{
+    "edgeworker-version":"1.0.8",
+    "bundle-version":8,
+    "api-version":"0.3",
+    "description":"Vanity URL Redirect",
+    "misc":{
+       "author":"jguerrad@akamai.com",
+       "updated":"2024-10-17"
+    }
+ }
